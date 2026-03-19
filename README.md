@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋, I'm Aditya Sharma
 
-<!--
-**AdityaSharma-dev-codes/AdityaSharma-dev-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Building practical Machine Learning systems and RAG-based applications
 
-Here are some ideas to get you started:
+- 🔭 Currently working on ML applications and retrieval-based systems for real-world use cases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  👉 https://github.com/AdityaSharma-dev-codes/RAG-Based-System-for-Legal-Precedent-Retrieval-and-Summarization
+
+---
+
+## 🧠 Current Focus
+
+- Applied Machine Learning (Scikit-Learn, PyTorch)
+- Retrieval-Augmented Generation (RAG systems)
+- Data processing with Pandas & SQL
+
+---
+
+## 🚀 Featured Projects
+
+### 🎤 Authorized Voice Command Executor
+- Voice-based system for executing secure system commands
+- Focus on authentication and command filtering  
+- 👉 https://github.com/AdityaSharma-dev-codes/Authorized-Voice-Command-Executor
+
+---
+
+### 🤖 Gate Chatbot for CSE
+- Chatbot to assist students with academic queries
+- Built using NLP techniques and rule-based fallback  
+- 👉 https://github.com/AdityaSharma-dev-codes/Gate-Chatbot-for-CSE
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, Java, SQL  
+**ML/Data:** Pandas, Scikit-Learn, PyTorch,  
+**Databases:** MySQL, PostgreSQL, SQLite  
+**Tools:** Linux, Git 
+
+---
+
+## 🎯 Goals
+
+- Build production-level ML systems
+- Contribute to open-source ML projects
+
+---
+
+## 📫 Contact
+
+- Email: aditya2903a@gmail.com
+- LinkedIn: https://www.linkedin.com/in/aditya-sharma-03a168362/
