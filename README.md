@@ -35,7 +35,7 @@
 ## 🛠️ Tech Stack
 
 **Languages:** Python, Java, SQL  
-**ML/Data:** Pandas, Scikit-Learn, PyTorch
+**ML/Data:** Pandas, Scikit-Learn, PyTorch  
 **Databases:** MySQL, PostgreSQL, SQLite  
 **Tools:** Linux, Git 
 
